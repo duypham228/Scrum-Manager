@@ -15,7 +15,7 @@
 		E130B17A2698C5D7003DD408 /* ScrumdingerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E130B1792698C5D7003DD408 /* ScrumdingerUITests.swift */; };
 		E14452C226AB5160003D7498 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E14452C126AB5160003D7498 /* CardView.swift */; };
 		E1F2527F26AF38760019847E /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F2527E26AF38760019847E /* DailyScrum.swift */; };
-		E1F2528226AF38A10019847E /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F2528126AF38A10019847E /* Color+Codable.swift */; };
+		E1F2528426AF3A030019847E /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F2528326AF3A030019847E /* Color+Codable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		E130B17B2698C5D7003DD408 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E14452C126AB5160003D7498 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		E1F2527E26AF38760019847E /* DailyScrum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
-		E1F2528126AF38A10019847E /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Color+Codable.swift"; path = "../../../../../../Downloads/CreatingACardView/Complete/Scrumdinger/Models/Color+Codable.swift"; sourceTree = "<group>"; };
+		E1F2528326AF3A030019847E /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Color+Codable.swift"; path = "../../../../../../Downloads/CreatingACardView/Complete/Scrumdinger/Models/Color+Codable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,8 +141,8 @@
 		E1F2528026AF38820019847E /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				E1F2528126AF38A10019847E /* Color+Codable.swift */,
 				E1F2527E26AF38760019847E /* DailyScrum.swift */,
+				E1F2528326AF3A030019847E /* Color+Codable.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -279,7 +279,7 @@
 				E1F2527F26AF38760019847E /* DailyScrum.swift in Sources */,
 				E130B15F2698C5D2003DD408 /* MeetingView.swift in Sources */,
 				E14452C226AB5160003D7498 /* CardView.swift in Sources */,
-				E1F2528226AF38A10019847E /* Color+Codable.swift in Sources */,
+				E1F2528426AF3A030019847E /* Color+Codable.swift in Sources */,
 				E130B15D2698C5D2003DD408 /* ScrumdingerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
