@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E126EB7926B4A81E002BA1F8 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E126EB7826B4A81E002BA1F8 /* EditView.swift */; };
 		E130B15D2698C5D2003DD408 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E130B15C2698C5D2003DD408 /* ScrumdingerApp.swift */; };
 		E130B15F2698C5D2003DD408 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E130B15E2698C5D2003DD408 /* MeetingView.swift */; };
 		E130B1612698C5D6003DD408 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E130B1602698C5D6003DD408 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E126EB7826B4A81E002BA1F8 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		E130B1592698C5D2003DD408 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E130B15C2698C5D2003DD408 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		E130B15E2698C5D2003DD408 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				E130B1622698C5D6003DD408 /* Preview Content */,
 				E1F2528726B06A7A0019847E /* ScrumsView.swift */,
 				E19C16E826B0B19A00FD5FC7 /* DetailView.swift */,
+				E126EB7826B4A81E002BA1F8 /* EditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			files = (
 				E1F2527F26AF38760019847E /* DailyScrum.swift in Sources */,
 				E130B15F2698C5D2003DD408 /* MeetingView.swift in Sources */,
+				E126EB7926B4A81E002BA1F8 /* EditView.swift in Sources */,
 				E14452C226AB5160003D7498 /* CardView.swift in Sources */,
 				E19C16E926B0B19A00FD5FC7 /* DetailView.swift in Sources */,
 				E1F2528826B06A7A0019847E /* ScrumsView.swift in Sources */,
